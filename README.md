@@ -1,7 +1,10 @@
+# Project04-Platformer
+
 # Exercise04a-StateMachines
+2/27/2024
 
 ## Implementation
-Which features you included.
+Added idle, walk, and jump animation to sprite for the player
 
 ## References
 
@@ -12,4 +15,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Jaiden Gray
